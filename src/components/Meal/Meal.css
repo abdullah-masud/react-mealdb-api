@@ -1,0 +1,8 @@
+.details-button {
+    background-color: #0b6b8b;
+    border: none;
+}
+
+.details-button:hover {
+    background-color: #13252c;
+}
